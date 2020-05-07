@@ -1,0 +1,7 @@
+{
+    "files": [
+        "securedrop_client/__init__.py",
+        "securedrop_client/app.py",
+        "securedrop_client/resources/__init__.py"
+    ]
+}
